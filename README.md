@@ -8,12 +8,12 @@
 <hr>
 
 # NeuroNest AI Software Security Platform
-[![Awesome](https://neuronest.cc/)
+[![Awesome]
 
 NeuroNest is an AI software security platform designed to help developers build safer, cleaner, and more reliable applications. It supports coding, debugging, testing, security review, DevOps automation, and technical research, making it useful for teams that want to improve software quality with AI-powered workflows.
 
 
->contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+>contribition welcome -[open PR](https://neuronest.cc/)
 
 
 ### 1. Introduction of DeepSeek Coder
